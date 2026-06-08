@@ -1,6 +1,6 @@
 ## jcxg -- under construction
 
-hii & welcome to my Github. This page is solely for fun personal projects and studying purposes. feel free to follow. 
+hii & welcome to my Github. This page is solely for fun personal projects and studying. feel free to follow. 
 
 <img src="https://media2.giphy.com/media/u4GnxcPB60wlhLkSdW/giphy.gif" width="150" align="left">
 
